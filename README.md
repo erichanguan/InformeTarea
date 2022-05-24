@@ -40,8 +40,7 @@ La solución deb estar en esta sección, no como un archivo anexo.
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
+https://youtu.be/azqDiby46K8
 
 
 5. CONCLUSIONES
