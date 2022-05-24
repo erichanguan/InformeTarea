@@ -20,11 +20,18 @@ Adquirir conocimientos sobre los principios básicos de fundamentos de circuitos
 ![](https://github.com/erichanguan/InformeTarea/blob/main/3%20mapa%20prefijos%20m%C3%A9tricos.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/4%20mapa%20conversion%20de%20unidades.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/5%20mapa%20estructura%20at%C3%B3mica.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/6%20mapa%20carga%20electrica.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/7%20mapa%20voltaje%2C%20cooriente%20y%20resistencia.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/8%20inforgrafia%20fuente%20de%20corriente.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/8.1%20mapa%20fuente%20de%20voltaje.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/9%20infografia%20resistores.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/10%20infografia%20circuito%20el%C3%A9ctrico.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/11%20infografia%20medicion%20de%20circuitos%20basicos.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/12%20infografia%20seguridad%20el%C3%A9ctrica.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+
 
 4. VIDEO
 
