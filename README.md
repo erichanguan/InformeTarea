@@ -15,7 +15,11 @@ Adquirir conocimientos sobre los principios básicos de fundamentos de circuitos
 
 2. MARCO TEÓRICO (RESUMEN)
 
-
+https://github.com/erichanguan/InformeTarea/commit/d6829778a96f9d36f459caf782a23c87e5516b51
+https://github.com/erichanguan/InformeTarea/blob/main/2%20mapa%20notacion%20cientifica.png
+https://github.com/erichanguan/InformeTarea/blob/main/3%20mapa%20prefijos%20m%C3%A9tricos.png
+https://github.com/erichanguan/InformeTarea/blob/main/4%20mapa%20conversion%20de%20unidades.png
+https://github.com/erichanguan/InformeTarea/blob/main/5%20mapa%20estructura%20at%C3%B3mica.png
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
