@@ -14,8 +14,9 @@ Adquirir conocimientos sobre los principios básicos de fundamentos de circuitos
    Reconocer y analizar diversos tipos y valores de resistencias.
 
 2. MARCO TEÓRICO (RESUMEN)
-
+ Unidades de Medida
 ![](https://github.com/erichanguan/InformeTarea/commit/d6829778a96f9d36f459caf782a23c87e5516b51)
+ Notación de ingeniería y prefijos métricos
 ![](https://github.com/erichanguan/InformeTarea/blob/main/2%20mapa%20notacion%20cientifica.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/3%20mapa%20prefijos%20m%C3%A9tricos.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/4%20mapa%20conversion%20de%20unidades.png)
@@ -30,7 +31,8 @@ Adquirir conocimientos sobre los principios básicos de fundamentos de circuitos
 ![](https://github.com/erichanguan/InformeTarea/blob/main/12%20infografia%20seguridad%20el%C3%A9ctrica.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
+Capítulo 1 
+Ejercicios
 ![](https://github.com/erichanguan/InformeTarea/blob/main/1%20cap1.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/1.2%20cap1.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/1.3%20cap1.png)
@@ -40,6 +42,8 @@ Adquirir conocimientos sobre los principios básicos de fundamentos de circuitos
 ![](https://github.com/erichanguan/InformeTarea/blob/main/1.7%20cap1.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/1.8%20cap1.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/1.9%20cap1.png)
+Capítulo 2
+Ejercicios
 ![](https://github.com/erichanguan/InformeTarea/blob/main/2.1%20cap2.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/2.2%20cap2.png)
 ![](https://github.com/erichanguan/InformeTarea/blob/main/2.3%20cap2.png)
@@ -61,14 +65,16 @@ Adquirir conocimientos sobre los principios básicos de fundamentos de circuitos
 
 https://youtu.be/azqDiby46K8
 
+Video explicativo 4 ejercicios de la tematica de los dos capitulos estudiados 1 y 2.
+
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+Así en este material se estudia los conceptos, las leyes y las teorías fundamentales de la electricidad y la electrónica, mismos que se analizan y aplican con un enfoque didáctico que facilita su comprensión y aplicación por parte del estudiante. El diseño de su estructura lleva una secuencia en la exposición de los temas, que inicia con el estudio de las teorías que sustentan a los conceptos básicos como carga eléctrica y potencial eléctrico, para seguir con el estudio de las variables que intervienen en los fenómenos eléctricos que se presentan en los circuitos y luego da paso a su interpretación y aplicación en los sistemas electrónicos, tanto analógicos como digitales.
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
 
 RUBRICA
 
