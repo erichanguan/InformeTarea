@@ -70,7 +70,7 @@ Video explicativo 4 ejercicios de la tematica de los dos capitulos estudiados 1 
 
 5. CONCLUSIONES
 
-Así en este material se estudia los conceptos, las leyes y las teorías fundamentales de la electricidad y la electrónica, mismos que se analizan y aplican con un enfoque didáctico que facilita su comprensión y aplicación por parte del estudiante. El diseño de su estructura lleva una secuencia en la exposición de los temas, que inicia con el estudio de las teorías que sustentan a los conceptos básicos como carga eléctrica y potencial eléctrico, para seguir con el estudio de las variables que intervienen en los fenómenos eléctricos que se presentan en los circuitos y luego da paso a su interpretación y aplicación en los sistemas electrónicos, tanto analógicos como digitales.
+En este material se estudio los conceptos, las leyes y las teorías fundamentales de la electricidad y la electrónica, mismos que se analizan y aplican con un enfoque didáctico que facilita su comprensión y aplicación por parte del estudiante. El diseño de su estructura lleva una secuencia en la exposición de los temas, que inicia con el estudio de las teorías que sustentan a los conceptos básicos como carga eléctrica y potencial eléctrico, para seguir con el estudio de las variables que intervienen en los fenómenos eléctricos que se presentan en los circuitos y luego da paso a su interpretación y aplicación en los sistemas electrónicos, tanto analógicos como digitales.
 
 6. BIBLIOGRAFÍA
 
