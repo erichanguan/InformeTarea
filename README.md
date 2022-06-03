@@ -1,4 +1,4 @@
-# InformeTarea
+# InformeTarea1
 
 
 1. OBJETIVOS
@@ -77,5 +77,100 @@ En este material se estudio los conceptos, las leyes y las teorías fundamentale
 Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
 
 RUBRICA
+
+![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
+
+#InformeTarea2
+
+UNIVERSIDAD DE LAS FUERXAS ARMADAS ESPE
+
+NOMBRE: CHANGUAN ERIKA
+CURSO:7322
+FECHA:03/06/22
+NIVEL: II
+ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+
+ACTIVIDAD- CAPÍTULO 3 Y CAPÍTULO 4
+
+
+1. OBJETIVOS
+
+objetivos generales
+
+Adquirir conocimientos sobre los principios básicos de la relación de la corriente con el voltaje y la resistencia y también de la potencia con la energía en circuitos eléctricos.
+
+   Objetivos Específicos
+   
+Explicar la ley de Ohm
+Calcular la corriente en un circuito
+Calcular el voltaje en un circuito
+Calcular la resistencia en un circuito
+Describir una aproximación básica a la localización de fallas
+Definir los términos energía y potencia
+Calcular la potencia en un circuito
+Seleccione resistencias adecuadas con base en consideración de potencia
+Explicar la conversion de energia y la caida de voltaje
+Analizar las fuentes de potencia y sus caracteristicas
+
+2. MARCO TEÓRICO (RESUMEN)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.1%20Ley%20de%20ohm.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.2%20calculo%20de%20corriente.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.3%20Introducci%C3%B3n%20a%20las%20fallas.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.1%20energ%C3%ADa%20y%20potencia.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.2%20potencia%20el%C3%A9ctrica.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.3%20fuentes%20de%20potencia.png)
+
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+![](https://github.com/erichanguan/InformeTarea/blob/main/1%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.2%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.3%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.4%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.5%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.6%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.7%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.8%20cap1.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/1.9%20cap1.png)
+
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.1%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.2%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.3%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.4%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.5%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.6%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.7%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.8%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.9%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.10%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.11%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.12%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.13%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.14%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.15%20cap2.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/2.16%20cap2.png)
+
+4. VÍDEO
+
+https://youtu.be/De2sviF_IEU
+
+Video explicativo 4 ejercicios de la tematica de los dos capitulos estudiados 3 y 4.
+
+
+5. CONCLUSIONES
+
+En este material se estudian los conceptos, las leyes y las teorías fundamentales de la electricidad y la electrónica,
+mismos que se analizan y aplican con un enfoque didáctico que facilita su comprensión y aplicación por parte del estudiante.
+El diseño de su estructura lleva una secuencia en la exposición de los temas, que inicia con el estudio de las teorías que
+sustentan a los conceptos básicos como carga eléctrica y potencial eléctrico, para seguir con el estudio de las variables
+que intervienen en los fenómenos eléctricos que se presentan en los circuitos y luego da paso a su interpretación
+y aplicación en los sistemas electrónicos, tanto analógicos como digitales.
+
+6. BIBLIOGRAFÍA
+
+Floyd, TL, Salas, RN, González, LMO y López, GP (2007). Principios de circuitos electricos. Pearson Educación.
+
+RÚBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
