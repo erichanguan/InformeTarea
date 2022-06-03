@@ -124,26 +124,27 @@ Analizar las fuentes de potencia y sus caracteristicas
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
-https://github.com/erichanguan/InformeTarea/blob/main/3.1%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.2%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.3%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.4%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.5%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.6%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.7%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.8%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.9%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.10%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.11%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/3.12%20cap3.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.1%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.2%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.3%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.4%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.5%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.6%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.7%20cap4.png
-https://github.com/erichanguan/InformeTarea/blob/main/4.8%20cap4.png
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.1%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.2%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.3%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.4%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.5%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.6%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.7%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.8%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.9%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.10%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.11%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/3.12%20cap3.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.1%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.2%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.3%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.4%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.5%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.6%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.7%20cap4.png)
+![](https://github.com/erichanguan/InformeTarea/blob/main/4.8%20cap4.png)
+
 
 4. VÍDEO
 
